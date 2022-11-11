@@ -41,3 +41,10 @@ I'm currently studying Java online using a Udemy course.</p>
   <a href="https://www.instagram.com/invites/contact/?i=lxl1zyo3ien5&utm_content=2l3wn8m" target="_blank" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
+
+
+<div style="flex-direction: row;" >
+<a href="https://github.com/Roberto1501">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto1501&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roberto1501&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
