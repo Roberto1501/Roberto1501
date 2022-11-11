@@ -43,7 +43,7 @@ I'm currently studying Java online using a Udemy course.</p>
 </p>  
 
 
-<div style="display:fex; " >
+<div style="display:fex; flex-direction:row" >
 <a href="https://github.com/Roberto1501">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto1501&layout=compact&langs_count=7&theme=dracula" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Roberto1501&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
